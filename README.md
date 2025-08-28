@@ -2,7 +2,7 @@
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
-Los proyectos son los siguientes:
+Los proyectos son los siguientes: Yeah,
 
 ## Contribuciones
 
